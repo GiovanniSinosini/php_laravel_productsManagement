@@ -1,13 +1,13 @@
 ## Login page
-![](images/login.png)
+![](images/login.PNG)
 
 ## Show Products
-![](images/products.png)
+![](images/products.PNG)
 
 ## Edit Product
-![](images/editProducts.png)
+![](images/editProducts.PNG)
 
 
 ---
-[< Anterior](../README.md) | [Inicio](https://github.com/GiovanniSinosini/php_laravel_GestaoProdutos)
-:--- | :---: | ---: 
+[< Previous](../README.md) | [Home](https://github.com/GiovanniSinosini/php_laravel_GestaoProdutos)
+:--- | :---: 
