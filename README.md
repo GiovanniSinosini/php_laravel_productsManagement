@@ -6,7 +6,7 @@ Repository developed to explore knowledge of PHP language development using the 
 
 Software developed with authentication and ability to manage products (perform CRUD operations - create, read, update, delete) with database connection.
 
-![](/docs/images/products.png)
+![](/docs/images/products.PNG)
 
 
 ## Repository organization
